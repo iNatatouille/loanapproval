@@ -41,7 +41,7 @@ const Application = ({ searchParams }) => {
         </div>
       </div>
       <div className='flex justify-center pt-20'>
-        <forum className='w-[32rem]'>
+        <forum className='w-[24rem] md:w-[32rem]'>
           <section className='my-10'>
             <div className='text-3xl w-full text-center mb-10 font-bold text-white'>
               Loan Information
